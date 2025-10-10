@@ -1,0 +1,6 @@
+[submodule "entorno-cliente"]
+	path = entorno-cliente
+	url = git@github.com:IshimiG/entorno-cliente.git
+[submodule "interfaces-web"]
+	path = interfaces-web
+	url = git@github.com:IshimiG/interfaces-web.git
