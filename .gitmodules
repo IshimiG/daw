@@ -4,3 +4,9 @@
 [submodule "interfaces-web"]
 	path = interfaces-web
 	url = git@github.com:IshimiG/interfaces-web.git
+[submodule "web-servidor-domain"]
+	path = web-servidor-domain
+	url = git@github.com:IshimiG/web-servidor-domain.git
+[submodule "web-servidor-persistencia"]
+	path = web-servidor-persistencia
+	url = git@github.com:IshimiG/web-servidor-persistencia.git
