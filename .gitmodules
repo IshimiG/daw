@@ -10,3 +10,6 @@
 [submodule "web-servidor-persistencia"]
 	path = web-servidor-persistencia
 	url = git@github.com:IshimiG/web-servidor-persistencia.git
+[submodule "interfaces-web-purista"]
+	path = interfaces-web-purista
+	url = git@github.com:IshimiG/interfaces-web-purista.git
